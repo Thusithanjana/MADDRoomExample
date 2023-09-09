@@ -2,4 +2,5 @@
     <string name="app_name">MADD Tutorial07</string>
     <string name="username">Enter Username</string>
     <string name="password">Enter the Password</string>
+    <string name="password_re">Re-type Password</string>
 </resources>
