@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MADD Tutorial07</string>
+    <string name="username">Enter Username</string>
+    <string name="password">Enter the Password</string>
+</resources>
